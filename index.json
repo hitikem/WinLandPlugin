@@ -1,7 +1,7 @@
 {
     "schema":  1,
     "repo":  "luolangaga/WinLandPlugin",
-    "updated":  "2026-10-03T11:16:07Z",
+    "updated":  "2026-10-04T03:29:53Z",
     "count":  6,
     "plugins":  [
                     {
@@ -100,7 +100,7 @@
                         "readme":  "plugins/uptime-clock/README.md",
                         "logo":  null,
                         "logo_data":  null,
-                        "updated_at":  null
+                        "updated_at":  "2026-10-03T11:16:16Z"
                     },
                     {
                         "id":  "hw-monitor",
