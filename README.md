@@ -12,7 +12,7 @@ WinIsland 的「设置 → 插件市场」只请求本仓库根目录的 **[inde
 <!-- PLUGINS:START -->
 | 图标 | 插件（Id） | 版本 | 作者 | 说明 |
 | :---: | :--- | :---: | :--- | :--- |
-| ![](plugins/clash-verge-island/logo.png) | **Clash 小岛**<br/>`clash-verge-island` | 2.0.0 | hit | 小岛显示 Clash Verge 当前节点和延迟（国旗按真实出口 IP 识别），展开后可在岛上直接换节点、切模式、切场景、更新订阅，点一下弹出大卡片：节点列表、按地区筛选、谁在用流量、今日与本月流量统计。自动读取 Clash Verge 的连接参数，只需在它里面打开「外部控制」。 |
+| ![](plugins/clash-verge-island/logo.png) | **Clash 小岛**<br/>`clash-verge-island` | 2.0.1 | hit | 小岛显示 Clash Verge 当前节点和延迟（国旗按真实出口 IP 识别），展开后可在岛上直接换节点、切模式、切场景、更新订阅，点一下弹出大卡片：节点列表、按地区筛选、谁在用流量、今日与本月流量统计。自动读取 Clash Verge 的连接参数，只需在它里面打开「外部控制」。 |
 | ![](plugins/clipboard-island/logo.png) | **剪贴板岛**<br/>`clipboard-island` | 1.2.1 | luolangaga | 复制文字或图片时岛上弹提示；展开就是最近几条历史，点任意一条直接粘进你正在输入的窗口 |
 |  | **开机时长**<br/>`uptime-clock` | 1.0.0 | zlwzk | 圆圈进度展示开机时长（24 小时一圈），展开显示 CPU 温度与开机记录 |
 | ![](plugins/device-island/logo.png) | **设备插拔岛**<br/>`device-island` | 1.0.0 | luolangaga | 插 U 盘 / 耳机 / 手柄时岛上自动冒出；展开逐台列出当前设备，带「打开」「安全弹出」 |
