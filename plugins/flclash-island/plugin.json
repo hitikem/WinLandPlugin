@@ -1,0 +1,19 @@
+{
+  "id": "flclash-island",
+  "name": "FlClash 小岛",
+  "version": "1.3.0",
+  "entry_dll": "FlClashIsland.dll",
+  "api_version": 2,
+  "min_host_version": "2.3.0",
+  "description": "为 FlClash 提供国旗、实时网速曲线、岛内节点切换和单节点延迟测试，内置首次使用引导。",
+  "author": "Thesed",
+  "icon_glyph": "",
+  "license": "MIT",
+  "tags": [
+    "flclash",
+    "proxy",
+    "network"
+  ],
+  "homepage": "https://github.com/luolangaga/WinLandPlugin/tree/main/plugins/flclash-island"
+}
+
