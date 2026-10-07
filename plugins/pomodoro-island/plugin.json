@@ -1,0 +1,14 @@
+{
+  "id": "pomodoro-island",
+  "name": "时钟岛",
+  "version": "1.0.0",
+  "entry_dll": "PomodoroIsland.dll",
+  "api_version": 2,
+  "min_host_version": "2.3.0",
+  "description": "灵动岛上的番茄钟 + 随手倒计时：会漏沙会翻转的矢量沙漏，点击岛体打开白色控制台，自动记录今日完成情况。",
+  "author": "hitikem",
+  "icon_glyph": "\uE916",
+  "homepage": "https://github.com/hitikem/clock-island",
+  "license": "MIT",
+  "tags": ["pomodoro", "timer", "focus", "productivity"]
+}
